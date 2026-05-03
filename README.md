@@ -15,7 +15,8 @@ This project is ideal for:
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo.
+
 
 🔗 https://webpagesbypatel.github.io/American-Dream/
 
