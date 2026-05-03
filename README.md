@@ -18,7 +18,7 @@ This project is ideal for:
 ## 🚀 Live Demo.
 
 
-🔗 https://webpagesbypatel.github.io/American-Dream/
+🔗 (https://american-dream-two.vercel.app/)
 
 ---
 
