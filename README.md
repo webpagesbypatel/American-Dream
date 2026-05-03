@@ -78,17 +78,7 @@ cd American-Dream
 
 ---
 
-## 📸 Screenshots
 
-> *(Add screenshots inside the assets folder and update paths below)*
-
-```
-assets/
-├── screenshot1.png
-├── screenshot2.png
-```
-
----
 
 ## 🔥 Key Highlights
 
