@@ -1,9 +1,5 @@
 # 🇺🇸 American Dream Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/webpagesbypatel/American-Dream?color=blue)
-![GitHub stars](https://img.shields.io/github/stars/webpagesbypatel/American-Dream?style=social)
-![GitHub forks](https://img.shields.io/github/forks/webpagesbypatel/American-Dream?style=social)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
